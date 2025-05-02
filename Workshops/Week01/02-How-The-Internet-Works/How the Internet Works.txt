@@ -1,0 +1,9 @@
+localhost is the machine you are currently using, commonly accessed via 127.0.0.1, its called a loop back address, so for example you can run a web server on your local PC and access it as it if were a Website elsewhere on the Internet.
+
+A nameserver stores records of domain names and there associated IP's - just like an old fashioned phone book. they are used to look up the Ip for a given domain name, nameservers are part of the DNS system consisting of a hierarchy of servers that talk to each other to keep an up to date set of record.
+
+A client (in this context) is the web browser running on your device, sometimes the device is called the client, it will send a request to a web server and the web server will send a response back to the client.
+A more detailed description is that you have two computers one is running a web browser and and the other is running a web server, now the computer running the web server may be running other services for example an FTP server, this is where ports come in, the services, like our web server, are bound to ports a port is just an integer between 0 and 65535, normally HTTP is bound to 80 but HTTPS is normally bound to 443, and for completeness FTP uses two ports, 20 and 21 so to tie in the localhost concept, if I and running a web browser and web server on my PC I could access it using 127.0.0.1:80
+
+I was familiar with all the concepts here but the parameter part threw me a little, and was new terminology I always thought of it a a path.
+

@@ -1,0 +1,2 @@
+This workshop was to create a git repository, it was created before this repo and I wanted to keep it external from this place.
+it can be found at https://github.com/Ivovis/MessageToLinus
