@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  background-color: rgb(10, 56, 48);
+  padding: 10px;
+}
+
+header {
+  /* background-color: rgb(49, 78, 14); */
+}
+
+main {
+  /* background-color: rgb(12, 12, 85); */
+}
+
+footer {
+  /* background-color: rgb(53, 53, 187); */
+}
+
+nav {
+  list-style: none;
+  margin: 50;
+  padding: 50;
+  border-spacing: 1;
+  display: flex;
+  justify-content: space-around;
+}
+
+a {
+  text-decoration: none;
+  border: 1px;
+  border-color: blue;
+}
+
+footer {
+  text-align: center;
+}

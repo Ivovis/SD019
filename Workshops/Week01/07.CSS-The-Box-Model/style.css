@@ -1,0 +1,22 @@
+/* * {  box-sizing: border-box;} commented out to show the differences */
+
+.box {
+  background: #e40808;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border: 10px solid rgb(5, 5, 221);
+  margin: 10px;
+  padding: 10px;
+}
+
+.second-box {
+  box-sizing: border-box;
+  background: #880000;
+  padding: 20px;
+  width: 100px;
+  height: 100px;
+  border: 10px solid rgb(5, 5, 221);
+  margin: 25px; /* experimented to see the margin effect */
+  padding: 10px;
+}

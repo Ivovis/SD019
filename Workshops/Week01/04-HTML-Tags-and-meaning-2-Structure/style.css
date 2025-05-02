@@ -1,0 +1,31 @@
+body {
+  background-image: url(https://cdn.mos.cms.futurecdn.net/HuGGeENt6kGyixe3hT9tnY.jpg.webp);
+}
+
+button {
+  background-color: transparent;
+  size: x=300px;
+}
+
+header {
+  /* background: plum; */
+  height: 2em;
+}
+
+header {
+  padding: 0;
+  display: flex;
+  justify-content: space-around;
+}
+main {
+  /* background: lightblue; */
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 50vh;
+}
+
+footer {
+  /* background: lime; */
+  height: 150px;
+}

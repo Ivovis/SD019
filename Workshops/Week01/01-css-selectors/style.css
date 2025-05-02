@@ -1,0 +1,21 @@
+div {
+  font-size: large;
+}
+
+/* this makes all the boxes have the same background color */
+.container {
+  background-color: rgb(10, 44, 44);
+}
+
+
+.box1 {
+  color: red;
+}
+
+.box2 {
+  color: green;
+}
+
+.box3 {
+  color: blue;
+}
