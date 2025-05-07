@@ -1,5 +1,4 @@
 // creating objects
-console.clear();
 
 const person = {
   name: "Bob",
