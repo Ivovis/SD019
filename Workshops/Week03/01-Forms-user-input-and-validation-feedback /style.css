@@ -1,0 +1,9 @@
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 50vw;
+  padding: 0.5em;
+  gap: 1em;
+}
