@@ -1,4 +1,6 @@
 import chalk from "chalk";
 console.log(chalk.blue("hello world"));
 
-// first run fails
+console.log(
+  chalk.red("WARNING: chalk has been updated and no longer supports common.js")
+);
