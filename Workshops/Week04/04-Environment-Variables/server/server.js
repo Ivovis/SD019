@@ -13,7 +13,7 @@ app.get("/", function (request, response) {
 });
 
 app.listen(8080, function () {
-  console.log("Server is runnign on port 8080");
+  console.log("Server is running on port 8080");
 });
 
 dotenv.config();
