@@ -5,7 +5,7 @@ export default function EngineRoom(props) {
     <section>
       <h4>This is the engine room</h4>
       <p>its a little bit noisy with {props.engineCount} engines.</p>
-      <FireExtinguisher />
+      <FireExtinguisher colour="green" />
     </section>
   );
 }
