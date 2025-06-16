@@ -95,13 +95,54 @@ default tags
     
 todo: (the irony!) 
 
-    create vite client
-    create express server (including dotenv pg cors)
+    create vite client - done
+    create express server (including dotenv pg cors) - done
+    design and create the database tables - done    
+    build out the basic server framework - done 
+    Design the application including wire frames - done    
+    Create a basic working client using dummy content - done
+    Server create a default database seed file and include a npm command to run it - almost - sql done
+        
+    Create the server with routes for each of the requirements;
+        there was only one!
+        Use SQL to retrieve posts from the database in your Express server. - done
     
+    Display all posts using .map(). 
+        
+ 
+
     
-    to be continued ...
+        
+    build route to read the full list of tasks
     
+implemented 
+
+    
+🎯 Create a client using React. - done
+🎯 Use Express to create your server, using both GET and POST endpoints.
+    
+    GET Done
+    POST to be done
+    
+🎯 Build a React form for users to create posts.
+
+🎯 Create multiple pages using React Router. - done
+    
+🎯 Design a database schema, and seed the database with some realistic data. - done
+
+🎯 Use SQL to retrieve posts from the database in your Express server. - done
+
+🎯 Display all posts using .map(). - done
+
+🎯 Use an interval and useEffect() to poll your database. - done
+
+
+Server @ https://week-07-assignment-siif.onrender.com
+Client @ https://week-07-assignment-client.onrender.com
+https://github.com/Ivovis/Week-07-assignment
 
 
 
+
+icon https://www.svgrepo.com/svg/356372/tick-circle
 
