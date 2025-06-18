@@ -1,0 +1,18 @@
+.NavBar {
+  display: flex;
+  justify-content: flex-end;
+  border: 3px solid rgb(102, 45, 167);
+  background-color: rgb(56, 22, 78);
+
+  border-radius: 15px;
+  padding: 15px;
+  margin: 1rem;
+}
+
+.mainContent {
+  border: 3px solid rgb(102, 45, 167);
+  border-radius: 15px;
+  padding: 15px;
+  background-color: rgb(56, 22, 78);
+  margin: 1rem;
+}
