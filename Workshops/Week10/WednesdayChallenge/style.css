@@ -1,0 +1,10 @@
+* {
+  margin: 10;
+  padding: 0;
+  box-sizing: border-box;
+  color: blue;
+}
+
+.header {
+  background-color: rgb(255, 0, 0);
+}
